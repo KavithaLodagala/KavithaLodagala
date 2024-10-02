@@ -29,7 +29,7 @@ I am Kavitha Lodagala and I have recently completed my masters in computer scien
 
 - :zap: In my free time, I actively solve problems on LeetCode and participate in weekly contests. I am passionate about continually enhancing my skills through hands-on project development, which helps me strengthen my practical expertise.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-lodagala/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-lodagala/)
 
 ---
 

@@ -23,7 +23,7 @@
 
 I am Kavitha Lodagala and I have recently completed my masters in computer science at Texas State University, SanMarcos, Texas, USA. I have 2 years of experience as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Infosys back in India. 
 
-- :telescope: I’m working as a Software Engineer and specialized in ETL process, SQL, AWS and designing applications.
+- :telescope: I’m worked as a Software Engineer and specialized in ETL process, Agile Methodology, SQL, AWS, Informatica, and designing applications.
 
 - :seedling: Exploring Career oppurtunities in Python, SQL, ETL, Artificial Intelligence, Machine Learning, Data Engineer.
 

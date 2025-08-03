@@ -21,11 +21,7 @@
   
 ### :woman_technologist: About Me :
 
-I am Kavitha Lodagala and I have recently completed my masters in computer science at Texas State University, SanMarcos, Texas, USA. I have 2 years of experience as a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Cognizant back in India. 
-
-- :telescope: I’m worked as a Data Analyst and specialized in Python, ETL process, Agile Methodology, SQL, AWS, Informatica, and designing applications.
-
-- :seedling: Exploring Career oppurtunities in Python, SQL, ETL, Data Analyst.
+I am Kavitha Lodagala and a Data Analyst with 5+ years of experience delivering data-driven solutions in healthcare and financial domains. Skilled in SQL, Python, and Excel for data analysis, predictive modeling, and statistical reporting. Proficient in building automated ETL pipelines using Airflow, Azure Data Factory, and Informatica, and developing interactive dashboards in Power BI, Tableau, and Looker. Applied machine learning models to identify risk patterns, optimize operations, and reduce costs. Strong background in data governance, stakeholder collaboration, and transforming complex datasets into actionable insights that drive strategic decisions.
 
 - :zap: In my free time, I actively solve problems on LeetCode and participate in weekly contests. I am passionate about continually enhancing my skills through hands-on project development, which helps me strengthen my practical expertise.
 

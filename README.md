@@ -21,11 +21,11 @@
   
 ### :woman_technologist: About Me :
 
-I am Kavitha Lodagala and I have recently completed my masters in computer science at Texas State University, SanMarcos, Texas, USA. I have 2 years of experience as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Infosys back in India. 
+I am Kavitha Lodagala and I have recently completed my masters in computer science at Texas State University, SanMarcos, Texas, USA. I have 2 years of experience as a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Cognizant back in India. 
 
-- :telescope: I’m worked as a Software Engineer and specialized in ETL process, Agile Methodology, SQL, AWS, Informatica, and designing applications.
+- :telescope: I’m worked as a Data Analyst and specialized in Python, ETL process, Agile Methodology, SQL, AWS, Informatica, and designing applications.
 
-- :seedling: Exploring Career oppurtunities in Python, SQL, ETL, Artificial Intelligence, Machine Learning, Data Engineer.
+- :seedling: Exploring Career oppurtunities in Python, SQL, ETL, Data Analyst.
 
 - :zap: In my free time, I actively solve problems on LeetCode and participate in weekly contests. I am passionate about continually enhancing my skills through hands-on project development, which helps me strengthen my practical expertise.
 

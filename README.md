@@ -47,7 +47,7 @@ I am Kavitha Lodagala and a Data Analyst with 5+ years of experience delivering 
 ---
 
 ### Contact:
-📧 Email: xou11@txstate.edu
+📧 Email: kavithalodagala1@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/kavitha-lodagala/
 

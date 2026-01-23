@@ -25,16 +25,16 @@
 I am Kavitha Lodagala and a Data Analyst with 5+ years of experience delivering data-driven solutions in healthcare and financial domains. Skilled in SQL, Python, and Excel for data analysis, predictive modeling, and statistical reporting. Proficient in building automated ETL pipelines using Airflow, Azure Data Factory, and Informatica, and developing interactive dashboards in Power BI, Tableau, and Looker. Applied machine learning models to identify risk patterns, optimize operations, and reduce costs. Strong background in data governance, stakeholder collaboration, and transforming complex datasets into actionable insights that drive strategic decisions.
 
 ### 🔭 My Interests
-**Big Data Analytics:** Leveraging tools like Hadoop and Spark for data processing.
-**Data Visualization:** Creating impactful visual stories with Tableau and Power BI.
-**Healthcare Analytics:** Applying data science to improve patient outcomes.
-**Machine Learning & AI:** Building models that solve real-world problems.
-**Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.
+**Big Data Analytics:** Leveraging tools like Hadoop and Spark for data processing.<br>
+**Data Visualization:** Creating impactful visual stories with Tableau and Power BI.<br>
+**Healthcare Analytics:** Applying data science to improve patient outcomes.<br>
+**Machine Learning & AI:** Building models that solve real-world problems.<br>
+**Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.<br>
 
 ### 🛠 Skills
-**Programming languages:** Python, SQL, R
-**Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib, Seaborn, A/B Testing
-**Big Data/Cloud Computing:** AWS, Git, Snowflake, Agile, Spark, Hadoop, DataBricks
+**Programming languages:** Python, SQL, R <br>
+**Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib, Seaborn, A/B Testing <br>
+**Big Data/Cloud Computing:** AWS, Git, Snowflake, Agile, Spark, Hadoop, DataBricks <br>
 
 ### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-lodagala/)
 
